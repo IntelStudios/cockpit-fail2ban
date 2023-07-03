@@ -1,6 +1,6 @@
 {
-  "name": "starter-kit",
-  "description": "Scaffolding for a cockpit module",
+  "name": "fail2ban",
+  "description": "Fail2ban cockpit module",
   "type": "module",
   "main": "index.js",
   "repository": "git@github.com:cockpit/starter-kit.git",
